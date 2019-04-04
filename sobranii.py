@@ -4,7 +4,7 @@ import zipfile
 import os
 import shutil
 
-
+#v1
 # Парсится logs.xml и раскидывает по папкам с ошибками
 
 with open("logs.xml", "r", encoding="utf-8") as file:
